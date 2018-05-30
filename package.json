@@ -5,8 +5,8 @@
       "/Users/maratkazbekov/Projects/npm_custom"
     ]
   ],
-  "_from": "angular-notifier@3.0.0",
-  "_id": "angular-notifier@3.0.0",
+  "_from": "@maratvmk/angular-notifier@3.0.0",
+  "_id": "@maratvmk/angular-notifier@3.0.0",
   "_inBundle": false,
   "_integrity": "sha512-AmBoycbROQHuqMqwEGrrYC5r4oYqIy8Hqfvdw9pXZBvOWb76Fq6sHlu7Co3z8FZHYNOjnJlkesl64dWMmST8lw==",
   "_location": "/angular-notifier",
@@ -14,9 +14,9 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "angular-notifier@3.0.0",
+    "raw": "@maratvmk/angular-notifier@3.0.0",
     "name": "@maratvmk/angular-notifier",
-    "escapedName": "angular-notifier",
+    "escapedName": "@maratvmk/angular-notifier",
     "rawSpec": "3.0.0",
     "saveSpec": null,
     "fetchSpec": "3.0.0"
@@ -24,16 +24,12 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/angular-notifier/-/angular-notifier-3.0.0.tgz",
-  "_spec": "3.0.0",
-  "_where": "/Users/maratkazbekov/Projects/iskra-front",
   "author": {
-    "name": "Dominique Müller",
-    "email": "dominique.m.mueller@gmail.com",
-    "url": "https://www.devdom.io/"
+    "name": "Marat K",
+    "email": "maratvmk@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/dominique-mueller/angular-notifier/issues"
+    "url": "https://github.com/maratvmk/angular-notifier/issues"
   },
   "description": "A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application.",
   "devDependencies": {
@@ -79,7 +75,7 @@
     "zone.js": "0.8.x"
   },
   "es2015": "./esm2015/angular-notifier.js",
-  "homepage": "https://github.com/dominique-mueller/angular-notifier",
+  "homepage": "https://github.com/maratvmk/angular-notifier",
   "keywords": [
     "angular",
     "angular2",
@@ -106,7 +102,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominique-mueller/angular-notifier.git"
+    "url": "git+https://github.com/maratvmk/angular-notifier.git"
   },
   "scripts": {
     "build": "npm run build:js && npm run build:sass && npm run build:css",
