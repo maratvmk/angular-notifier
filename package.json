@@ -15,7 +15,7 @@
     "type": "version",
     "registry": true,
     "raw": "angular-notifier@3.0.0",
-    "name": "angular-notifier",
+    "name": "@maratvmk/angular-notifier",
     "escapedName": "angular-notifier",
     "rawSpec": "3.0.0",
     "saveSpec": null,
