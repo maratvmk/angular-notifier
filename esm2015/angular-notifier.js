@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { ChangeDetectionStrategy, ChangeDetectorRef, Component, ElementRef, EventEmitter, Inject, Injectable, InjectionToken, Input, NgModule, Output, Renderer2, forwardRef } from '@angular/core';
-import { Subject as Subject$1 } from 'rxjs/Subject';
+import { Subject as Subject$1 } from 'rxjs';
 
 /**
  * @fileoverview added by tsickle
